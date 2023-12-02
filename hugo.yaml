@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: 程序员博览
 
 # import hextra as module
 module:
@@ -18,29 +18,29 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: 文档
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: 关于
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: 联系 ↗
       url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - name: 快速查询
       weight: 4
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+    # - name: GitHub
+    #   weight: 5
+    #   url: "https://github.com/imfing/hextra-starter-template"
+    #   params:
+    #     icon: github
+    # - name: Twitter
+    #   weight: 6
+    #   url: "https://twitter.com/"
+    #   params:
+    #     icon: x-twitter
 
 params:
   navbar:

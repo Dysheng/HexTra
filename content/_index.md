@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: 程序员博览
 toc: false
 ---
 
-This is the landing page.
+带你了解更多程序员感兴趣的内容.
 
 ## Explore
 

@@ -24,9 +24,9 @@ menu:
     - name: 关于
       pageRef: /about
       weight: 2
-    - name: 联系 ↗
-      url: "https://github.com/imfing"
-      weight: 3
+    # - name: 联系 ↗
+    #   url: "https://github.com/imfing"
+    #   weight: 3
     - name: 快速查询
       weight: 4
       params:
@@ -48,9 +48,12 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
+    copyright: "© 2023 程序员博览"
 
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+
+  # editURL:
+  #   enable: true
+  #   base: "https://github.com/imfing/hextra-starter-template/edit/main/content"

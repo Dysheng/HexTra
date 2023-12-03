@@ -51,6 +51,7 @@ params:
     displayCopyright: true
     displayPoweredBy: true
     copyright: "© 2023 程序员博览"
+defaultContentLanguage: zh-ch
 
 
 

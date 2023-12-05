@@ -24,6 +24,9 @@ menu:
     - name: 关于
       pageRef: /about
       weight: 2
+    - name: HelloAlgo
+      pageRef: /helloalgo
+      weight: 3
     # - name: 联系 ↗
     #   url: "https://github.com/imfing"
     #   weight: 3

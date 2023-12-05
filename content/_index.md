@@ -1,6 +1,7 @@
 ---
 title: Hextra 主题
 layout: hextra-home
+
 ---
 
 {{< hextra/hero-badge >}}
